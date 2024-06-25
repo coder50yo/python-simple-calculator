@@ -59,7 +59,7 @@ calculator/
 To run the calculator, execute the following command in your terminal:
 
 ```sh
-python calculator.py
+python3 calculator.py
 ```
 
 Follow the prompts to choose an operation and enter numbers to perform the calculation.
@@ -69,7 +69,7 @@ Follow the prompts to choose an operation and enter numbers to perform the calcu
 To run the unit tests for the calculator functions, execute the following command in your terminal:
 
 ```sh
-python -m unittest test_calculator.py
+python3 -m unittest test_calculator.py
 ```
 
 You should see output indicating that the tests passed.
